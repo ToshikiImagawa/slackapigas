@@ -1,0 +1,7 @@
+node_modules
+credentials.json
+.DS_Store*
+.hubot_history
+redis-commander
+weinre
+gapps.config.json
