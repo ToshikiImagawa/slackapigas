@@ -1,0 +1,2 @@
+# slackapigas
+SlackAPIをGASで扱いやすくしたRapperです。
